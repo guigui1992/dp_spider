@@ -1,0 +1,13 @@
+setup.py
+dp_spider/__init__.py
+dp_spider/items.py
+dp_spider/middlewares.py
+dp_spider/pipelines.py
+dp_spider/settings.py
+dp_spider/spiders/__init__.py
+dp_spider/spiders/dpspider.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
